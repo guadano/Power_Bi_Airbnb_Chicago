@@ -1,5 +1,5 @@
 # Power Bi - Airbnb Chicago
-
+ 
 Gracias a este informe, podemos ver el recorrido y proyección de los distintos alojamientos de **Airbnb** para los diferentes distritos que integra la ciudad de **Chicago**. El reporte se compone de 3 páginas principales:
 
   **Página 1** | Oferta Alojamientos:
