@@ -2,8 +2,6 @@
  
 Gracias a este informe, podemos ver el recorrido y proyección de los distintos alojamientos de **Airbnb** para los diferentes distritos que integra la ciudad de **Chicago**. El reporte se compone de 3 páginas principales:
 
-<iframe title="Airbnb_Proyecto_2" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYjIxZjA3YzYtYWMwNy00Y2I3LWI4YWItZTFhZjk0YzMwYWQxIiwidCI6ImJlYTQyMGRlLTJkNjYtNDZmYy05OTVkLTUxYzYwN2MwOGQxZSIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>
-
   **Página 1** | Oferta Alojamientos:
 
   ![pagina_1.png](https://github.com/guadano/Power_Bi_Airbnb_Chicago/blob/main/Imagenes/pagina_1.png)
